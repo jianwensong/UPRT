@@ -35,7 +35,7 @@ python -m torch.distributed.launch --nproc_per_node=1 --master_port=4321 basicsr
 python scripts/test.py
 ```
 
-### Citation
+## Citation
 ```
 @article{song2025universal,
   title={Universal phase retrieval transformer for single-pattern structured light three-dimensional imaging},
@@ -45,5 +45,5 @@ python scripts/test.py
 }
 ```
 
-### Acknowledgement
+## Acknowledgement
 The codes are based on BasicSR. We thank the developers and contributors for their efforts in developing and maintaining the framework.
