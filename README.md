@@ -5,7 +5,6 @@
 - PyTorch 1.10.0
 
 ```
-cd code
 pip install -r requirements.txt
 python setup.py develop
 ```
