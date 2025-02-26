@@ -40,7 +40,9 @@ python scripts/test.py
   title={Universal phase retrieval transformer for single-pattern structured light three-dimensional imaging},
   author={Song, Jianwen and Liu, Kai and Sowmya, Arcot and Sun, Changming},
   journal={Optics and Lasers in Engineering},
-  year={2025}
+  volume = {188},
+  pages = {108903},
+  year = {2025}
 }
 ```
 
